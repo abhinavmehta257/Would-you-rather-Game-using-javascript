@@ -1,0 +1,40 @@
+
+.senario_1{
+    background-color:  #48bd5d;
+    width: 98%;
+    height: 48%;
+    margin: 1%;
+}
+.senario_2{
+    width: 98%;
+    height: 48%;
+    margin: 1%;
+    background-color:  #bd4848;
+}
+h1{
+    color: aliceblue;
+    margin: 5px auto;
+}
+h3{
+    padding: 100px 10px;
+}
+
+#container{
+    height: 600px;
+    margin: 0px auto;
+}
+#head{
+    height: 50px;
+}
+body{
+    background-color: #232323;
+    margin: 0 0;
+    padding-top: 0;
+    font-size: 23px;
+
+line-height: 1.3;
+
+font-weight: 400;
+
+font-style: italic;
+}
